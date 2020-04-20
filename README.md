@@ -11,8 +11,8 @@ A whole bunch of links that I have found useful to keep
 
 ### C++
 
-- [https://github.com/ocornut/imgui](ImGUI)
+- [ImGUI](https://github.com/ocornut/imgui)
 
 ### Web (JS, HTML, CSS)
 
-- [https://github.com/dataarts/dat.gui](dat.GUI): A lightweight graphical user interface for changing variables in JavaScript.
+- [dat.GUI](https://github.com/dataarts/dat.gui): A lightweight graphical user interface for changing variables in JavaScript.
