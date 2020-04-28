@@ -4,9 +4,10 @@ A whole bunch of links related to cool computer science or science in general th
 ---------------------------
 
 ## Fun Links
+- [Growing Cellular Automata](https://distill.pub/2020/growing-ca/)
 - [Observe, Orient, Decide, Act (OODA) loop](https://eater.net/ooda-loop) - for Smarter Everyday Video
 - [Quaternion Visualizer](https://eater.net/quaternions/) - 3Blue1Brown
-- [Float Toy](https://evanw.github.io/float-toy/) - learning the float standard
+- [Float Toy](https://evanw.github.io/float-toy/) - learning the floating point standard
 
 ---------------------------
 
