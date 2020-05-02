@@ -3,12 +3,14 @@ A whole bunch of links related to cool computer science or science in general th
 
 ---------------------------
 
-## Fun Links
+## Interactive Links *web toys*
 - [Growing Neural Cellular Automata](https://distill.pub/2020/growing-ca/) - regenerate images with neural network
 - [Observe, Orient, Decide, Act (OODA) loop](https://eater.net/ooda-loop) - for Smarter Everyday Video
 - [Quaternion Visualizer](https://eater.net/quaternions/) - 3Blue1Brown
 - [Float Toy](https://evanw.github.io/float-toy/) - learning the floating point standard
 - [Animated Bezier Curves](https://www.jasondavies.com/animated-bezier/)
+- [World Airports Voronoi](https://www.jasondavies.com/maps/voronoi/airports/)
+- [Stuff in Space](http://stuffin.space/) - live points/orbits of all registered satellites in space
 ---------------------------
 
 ## Interesting
