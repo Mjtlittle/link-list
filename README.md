@@ -1,4 +1,4 @@
-# Lists-o-Links
+# Link Collage
 A whole bunch of links related to cool computer science or science in general things
 
 ---------------------------
@@ -8,7 +8,7 @@ A whole bunch of links related to cool computer science or science in general th
 - [Observe, Orient, Decide, Act (OODA) loop](https://eater.net/ooda-loop) - for Smarter Everyday Video
 - [Quaternion Visualizer](https://eater.net/quaternions/) - 3Blue1Brown
 - [Float Toy](https://evanw.github.io/float-toy/) - learning the floating point standard
-
+- [Animated Bezier Curves](https://www.jasondavies.com/animated-bezier/)
 ---------------------------
 
 ## Interesting
