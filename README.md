@@ -15,7 +15,7 @@ A whole bunch of links related to cool computer science or science in general th
 - [Pink Trumbone](https://dood.al/pinktrombone/) - immitates sounds made within human mouths
 - [True Size Of](https://thetruesize.com/) - visualizes the true size of countries from map projection
 - [Realtime Raytracer](https://domenicobrz.github.io/webgl/projects/RTPTCornellBox/) - realtime raytracing in chrome with wavelet filter
-
+- [Visual6502 Remixed](https://floooh.github.io/visual6502remix/) - online port of a 6502 simulator
 ---------------------------
 
 ## Interesting
