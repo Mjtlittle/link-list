@@ -32,6 +32,7 @@ A whole bunch of links related to cool computer science or science in general th
 ### Web Development (JS, HTML, CSS)
 - [dat.GUI](https://github.com/dataarts/dat.gui) - lightweight graphical user interface for changing variables in JavaScript
 - [threes.js](https://github.com/evanw/three.js) - 3d graphics for webgl
+- [Rough Notation](https://github.com/pshihn/rough-notation) - animated rough sketches ontop of html
 
 ---------------------------
 
