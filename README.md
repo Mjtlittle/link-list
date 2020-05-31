@@ -16,6 +16,8 @@ A whole bunch of links related to cool computer science or science in general th
 - [True Size Of](https://thetruesize.com/) - visualizes the true size of countries from map projection
 - [Realtime Raytracer](https://domenicobrz.github.io/webgl/projects/RTPTCornellBox/) - realtime raytracing in chrome with wavelet filter
 - [Visual6502 Remixed](https://floooh.github.io/visual6502remix/) - online port of a 6502 simulator
+- [Nukemap](https://nuclearsecrecy.com/nukemap/) - shows what would happen if a nuclear bomb was detonated at a certain spot on earth
+
 ---------------------------
 
 ## Interesting
