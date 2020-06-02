@@ -31,10 +31,11 @@ A whole bunch of links related to cool computer science or science in general th
 ### C++
 - [ImGUI](https://github.com/ocornut/imgui)
 
-### Web Development (JS, HTML, CSS)
+### Web Development
 - [dat.GUI](https://github.com/dataarts/dat.gui) - lightweight graphical user interface for changing variables in JavaScript
 - [threes.js](https://github.com/evanw/three.js) - 3d graphics for webgl
 - [Rough Notation](https://github.com/pshihn/rough-notation) - animated rough sketches ontop of html
+- [Reveal](https://revealjs.com/) - slick presentation library
 
 ---------------------------
 
