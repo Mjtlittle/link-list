@@ -1,6 +1,12 @@
 # Link Collage
 A whole bunch of links related to cool computer science or science in general things
 
+## Rules on adding new links
+- follow the format: `[name](link) - description`
+- related to science and/or computer science
+- does not compete with an existing link
+- duplicate links are allowed if features not present in both are valuble
+
 ---------------------------
 
 ## Interactive Links *(web toys)*
@@ -17,6 +23,7 @@ A whole bunch of links related to cool computer science or science in general th
 - [Realtime Raytracer](https://domenicobrz.github.io/webgl/projects/RTPTCornellBox/) - realtime raytracing in chrome with wavelet filter
 - [Visual6502 Remixed](https://floooh.github.io/visual6502remix/) - online port of a 6502 simulator
 - [Nukemap](https://nuclearsecrecy.com/nukemap/) - shows what would happen if a nuclear bomb was detonated at a certain spot on earth
+- [Maze Solving Algorithms](https://www.jamisbuck.org/mazes/) - a whole bunch of interactive maze solving algorithms
 
 ---------------------------
 
