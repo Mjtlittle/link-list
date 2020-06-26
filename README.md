@@ -1,11 +1,12 @@
 # Link Collage
 A whole bunch of links related to cool computer science or science in general things
 
-## Rules on adding new links
-- follow the format: `[name](link) - description`
+## Contributing Rules
+- follow the format: `- [name](link) - description`
 - related to science and/or computer science
 - does not compete with an existing link
 - duplicate links are allowed if features not present in both are valuble
+- links that are a subset of another will be removed
 
 ---------------------------
 
@@ -25,24 +26,30 @@ A whole bunch of links related to cool computer science or science in general th
 - [Nukemap](https://nuclearsecrecy.com/nukemap/) - shows what would happen if a nuclear bomb was detonated at a certain spot on earth
 - [Maze Solving Algorithms](https://www.jamisbuck.org/mazes/) - a whole bunch of interactive maze solving algorithms
 
----------------------------
-
 ## Interesting
 - [Rug Puzzle Solutions](https://github.com/beneater/rug-puzzle) - solutions to the rug puzzle
 - [Wave Function Collapse](https://github.com/mxgmn/WaveFunctionCollapse) - cool pattern fitting
 
 ---------------------------
 
-## Libraries
+## Web Development
 
-### C++
-- [ImGUI](https://github.com/ocornut/imgui)
-
-### Web Development
+### Libraries
 - [dat.GUI](https://github.com/dataarts/dat.gui) - lightweight graphical user interface for changing variables in JavaScript
 - [threes.js](https://github.com/evanw/three.js) - 3d graphics for webgl
 - [Rough Notation](https://github.com/pshihn/rough-notation) - animated rough sketches ontop of html
 - [Reveal](https://revealjs.com/) - slick presentation library
+
+### Tools
+- [Real Favicon Generator](https://realfavicongenerator.net/) - generate favicons for all platforms aswell as check existing sites
+- [Metatags](https://metatags.io/) - generate metatags for websites such that previews on other sites show desired information
+
+---------------------------
+
+## Other
+
+### C++
+- [ImGUI](https://github.com/ocornut/imgui)
 
 ---------------------------
 
