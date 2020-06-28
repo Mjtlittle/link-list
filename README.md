@@ -40,6 +40,9 @@ A whole bunch of links related to cool computer science or science in general th
 - [Rough Notation](https://github.com/pshihn/rough-notation) - animated rough sketches ontop of html
 - [Reveal](https://revealjs.com/) - slick presentation library
 
+### Design
+- [RefactoringUI](https://refactoringui.com/) - collection of changes that can be made to websites to make usability better
+
 ### Tools
 - [Real Favicon Generator](https://realfavicongenerator.net/) - generate favicons for all platforms aswell as check existing sites
 - [Metatags](https://metatags.io/) - generate metatags for websites such that previews on other sites show desired information
