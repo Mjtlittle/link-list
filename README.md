@@ -39,6 +39,7 @@ A whole bunch of links related to cool computer science or science in general th
 - [threes.js](https://github.com/evanw/three.js) - 3d graphics for webgl
 - [Rough Notation](https://github.com/pshihn/rough-notation) - animated rough sketches ontop of html
 - [Reveal](https://revealjs.com/) - slick presentation library
+- [Textures.js](https://riccardoscalco.it/textures/) - fill svg shapes with patterns (lines, dots, and grids)
 
 ### Design
 - [RefactoringUI](https://refactoringui.com/) - collection of changes that can be made to websites to make usability better
