@@ -55,6 +55,9 @@ A whole bunch of links related to cool computer science or science in general th
 ### C++
 - [ImGUI](https://github.com/ocornut/imgui)
 
+### Git
+- [Semantic Commit Messages](https://seesparkbox.com/foundry/semantic_commit_messages)
+
 ---------------------------
 
 ## Mechanical Keyboards
