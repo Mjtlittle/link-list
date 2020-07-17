@@ -53,14 +53,14 @@ A whole bunch of links related to cool computer science or science in general th
 ## Other
 
 ### C++
-- [ImGUI](https://github.com/ocornut/imgui)
+- [ImGUI](https://github.com/ocornut/imgui) - expansive versatile gui library
 
 ### Git
-- [Semantic Commit Messages](https://seesparkbox.com/foundry/semantic_commit_messages)
+- [Semantic Commit Messages](https://seesparkbox.com/foundry/semantic_commit_messages) - simple and easy way to format commit messages
 
 ---------------------------
 
 ## Mechanical Keyboards
 
 ### Firmware
-- [Quantum Mechanical Keyboard Firmware](https://docs.qmk.fm/#/)
+- [Quantum Mechanical Keyboard Firmware](https://docs.qmk.fm/#/) - highly customizable keyboard firmware
