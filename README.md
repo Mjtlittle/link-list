@@ -25,6 +25,7 @@ A whole bunch of links related to cool computer science or science in general th
 - [Visual6502 Remixed](https://floooh.github.io/visual6502remix/) - online port of a 6502 simulator
 - [Nukemap](https://nuclearsecrecy.com/nukemap/) - shows what would happen if a nuclear bomb was detonated at a certain spot on earth
 - [Maze Solving Algorithms](https://www.jamisbuck.org/mazes/) - a whole bunch of interactive maze solving algorithms
+- [Cohomology Fractal](https://henryseg.github.io/cohomology_fractals/) - interative cohomology fractal explorer
 
 ## Interesting
 - [Rug Puzzle Solutions](https://github.com/beneater/rug-puzzle) - solutions to the rug puzzle
