@@ -26,6 +26,7 @@ A whole bunch of links related to cool computer science or science in general th
 - [Nukemap](https://nuclearsecrecy.com/nukemap/) - shows what would happen if a nuclear bomb was detonated at a certain spot on earth
 - [Maze Solving Algorithms](https://www.jamisbuck.org/mazes/) - a whole bunch of interactive maze solving algorithms
 - [Cohomology Fractal](https://henryseg.github.io/cohomology_fractals/) - interative cohomology fractal explorer
+- [7 sets Venn Diagram](http://moebio.com/research/sevensets/) - interactive 7 part venn diagram
 
 ## Interesting
 - [Rug Puzzle Solutions](https://github.com/beneater/rug-puzzle) - solutions to the rug puzzle
