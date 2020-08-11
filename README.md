@@ -76,3 +76,7 @@ A whole bunch of links related to cool computer science or science in general th
 - [MCStacker](https://mcstacker.net/) - generate minecraft entity commands
 - [UUID Converter](https://www.soltoder.com/mc-uuid-converter/) - convert between different types of uuid types
 - [Data Pack Generators](https://misode.github.io/dev/) - generate predicates and other internal data json for datapacks
+- [Coordinate Tools](https://dinnerbone.com/minecraft/tools/coordinates/) - determine region filenames from world coordinates
+- [Chunk Base](https://www.chunkbase.com/apps/) - find chunk and structure location information based on world seed
+
+
