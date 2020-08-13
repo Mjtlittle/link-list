@@ -28,6 +28,7 @@ A whole bunch of links related to cool computer science or science in general th
 - [Cohomology Fractal](https://henryseg.github.io/cohomology_fractals/) - interative cohomology fractal explorer
 - [7 sets Venn Diagram](http://moebio.com/research/sevensets/) - interactive 7 part venn diagram
 - [Fluid Experiment](http://haxiomic.github.io/GPU-Fluid-Experiments/html5/) - GPU WebGL turbulance fluid simulator
+- [Creating a QR Code](https://www.nayuki.io/page/creating-a-qr-code-step-by-step) - a step by step explanation on how QR codes are generated
 
 ## Interesting
 - [Rug Puzzle Solutions](https://github.com/beneater/rug-puzzle) - solutions to the rug puzzle
