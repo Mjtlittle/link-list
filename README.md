@@ -35,6 +35,7 @@ A whole bunch of links related to cool computer science or science in general th
 ## Interesting
 - [Rug Puzzle Solutions](https://github.com/beneater/rug-puzzle) - solutions to the rug puzzle
 - [Wave Function Collapse](https://github.com/mxgmn/WaveFunctionCollapse) - cool pattern fitting
+- [Heatmap of Chess Moves](https://github.com/Ramon-Deniz/ChessData#heatmap-of-chess-moves) - heatmaps of the movement and capture of certain peices
 
 ---------------------------
 
