@@ -1,4 +1,4 @@
-# Link Collage
+# Link List
 A whole bunch of links related to cool computer science or science in general things
 
 ## Contributing Rules
@@ -10,20 +10,19 @@ A whole bunch of links related to cool computer science or science in general th
 
 ---------------------------
 
-## Interactive Links *(web toys)*
+## Interactive *(web toys)*
+
+**Unsorted**
+
 - [Growing Neural Cellular Automata](https://distill.pub/2020/growing-ca/) - regenerate images with neural network
 - [Observe, Orient, Decide, Act (OODA) loop](https://eater.net/ooda-loop) - for Smarter Everyday Video
 - [Quaternion Visualizer](https://eater.net/quaternions/) - from 3Blue1Brown video
 - [Float Toy](https://evanw.github.io/float-toy/) - quick way to convert between float values
 - [Float Exposed](https://float.exposed/) - helpful for learning floating point standard
 - [Animated Bezier Curves](https://www.jasondavies.com/animated-bezier/)
-- [World Airports Voronoi](https://www.jasondavies.com/maps/voronoi/airports/) - closest airport from any point on earth
-- [Stuff in Space](http://stuffin.space/) - live points/orbits of all registered satellites in space
 - [Pink Trumbone](https://dood.al/pinktrombone/) - immitates sounds made within human mouths
-- [True Size Of](https://thetruesize.com/) - visualizes the true size of countries from map projection
 - [Realtime Raytracer](https://domenicobrz.github.io/webgl/projects/RTPTCornellBox/) - realtime raytracing in chrome with wavelet filter
 - [Visual6502 Remixed](https://floooh.github.io/visual6502remix/) - online port of a 6502 simulator
-- [Nukemap](https://nuclearsecrecy.com/nukemap/) - shows what would happen if a nuclear bomb was detonated at a certain spot on earth
 - [Maze Solving Algorithms](https://www.jamisbuck.org/mazes/) - a whole bunch of interactive maze solving algorithms
 - [Cohomology Fractal](https://henryseg.github.io/cohomology_fractals/) - interative cohomology fractal explorer
 - [7 sets Venn Diagram](http://moebio.com/research/sevensets/) - interactive 7 part venn diagram
@@ -31,6 +30,13 @@ A whole bunch of links related to cool computer science or science in general th
 - [Creating a QR Code](https://www.nayuki.io/page/creating-a-qr-code-step-by-step) - a step by step explanation on how QR codes are generated
 - [Gravity is not a Force](https://timhutton.github.io/GravityIsNotAForce/) - visualization of acceleration due to gravity in differing space time perspectives
 - [Noclip](https://noclip.website/) - A digital museum of video game levels
+
+**Maps & Geographic**
+- [World Airports Voronoi](https://www.jasondavies.com/maps/voronoi/airports/) - closest airport from any point on earth
+- [True Size Of](https://thetruesize.com/) - visualizes the true size of countries from map projection
+- [Nukemap](https://nuclearsecrecy.com/nukemap/) - shows what would happen if a nuclear bomb was detonated at a certain spot on earth
+- [ShadeMap](https://shademap.app/) - renders shadows on a map during different times of day
+- [Stuff in Space](http://stuffin.space/) - live points/orbits of all registered satellites in space
 
 ## Interesting
 - [Rug Puzzle Solutions](https://github.com/beneater/rug-puzzle) - solutions to the rug puzzle
